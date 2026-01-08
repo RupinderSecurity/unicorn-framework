@@ -248,7 +248,7 @@ If you use the UNICORN Framework in your research or practice, please cite it as
 
 ## 📄 Publications
 
-- **arXiv Preprint**: [The UNICORN Framework: A Multi-Dimensional Methodology for Evaluating Guardrail Robustness in Enterprise Large Language Model Assistants](https://arxiv.org/abs/2025.XXXXX)
+- **arXiv Preprint**: 
 - **ISACA Journal**: [forthcoming]
 - **IEEE Security & Privacy**: [forthcoming]
 

@@ -260,8 +260,7 @@ If you use the UNICORN Framework in your research or practice, please cite:
 
 ## 📧 Contact
 
-**Rupinder Pal Singh**  
-Manager, Information Security - Audit & Compliance | NICE  
+**Rupinder Pal Singh**   
 CISSP, CISA, CRISC, ISO 42001 Implementer, ISO 27001 Implementer
 
 - Email: rupinderpalsing@proton.me

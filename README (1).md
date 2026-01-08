@@ -64,7 +64,7 @@ Current evaluation approaches address portions of the governance challenge but l
 
 ## Framework Overview
 
-![UNICORN Framework Architecture](media/image1.png)
+![UNICORN Framework Architecture](media/unicorn_framework_diagram.png)
 
 ### Design Principles
 

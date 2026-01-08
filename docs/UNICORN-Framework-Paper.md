@@ -327,7 +327,7 @@ All evaluated systems were owned by or explicitly authorized for testing by syst
 
 ## Data Availability
 
-Test case templates and scoring rubrics are available as supplementary materials. Anonymized aggregate results are reported in this paper. System-specific data cannot be shared due to confidentiality agreements. Framework materials are open-sourced under MIT license at https://github.com/YOURUSERNAME/unicorn-framework
+Test case templates and scoring rubrics are available as supplementary materials. Anonymized aggregate results are reported in this paper. System-specific data cannot be shared due to confidentiality agreements. Framework materials are open-sourced under MIT license at https://github.com/RupinderSecurity/unicorn-framework
 
 ---
 

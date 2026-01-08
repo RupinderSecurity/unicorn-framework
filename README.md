@@ -34,7 +34,7 @@ unicorn-framework/
 ├── README.md
 ├── LICENSE (MIT)
 ├── docs/
-│   ├── paper.pdf                    # Full research paper
+│   ├── UNICORN-Framework-Paper.md   # Full research paper
 │   ├── scoring-guide.md             # Detailed scoring instructions
 │   └── iso42001-mapping.md          # Standards alignment guide
 ├── templates/

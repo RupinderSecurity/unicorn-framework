@@ -98,7 +98,7 @@ Effective guardrail evaluation requires:
 
 The UNICORN Framework (Unified Normative Interaction Control Observation and Robustness evaluatioN) provides systematic evaluation of guardrail robustness across eight dimensions at three interaction depths. The framework produces quantitative scores enabling cross-system comparison and longitudinal tracking.
 
-![UNICORN Framework Architecture](media/image1.png)
+![UNICORN Framework Architecture](media/unicorn_framework_diagram.png)
 
 ### 4.2 Design Principles
 

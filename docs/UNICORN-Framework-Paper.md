@@ -2,7 +2,7 @@
 
 **Rupinder Pal Singh**
 
-Manager of IT Audit and Compliance, NICE  
+Manager of Information Security - Audit and Compliance, NICE  
 Sandy, Utah, USA  
 rupinderpalsing@proton.me
 

@@ -228,15 +228,20 @@ Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on our code of cond
 
 ## 📚 Citation
 
-If you use the UNICORN Framework in your research or practice, please cite:
+If you use the UNICORN Framework in your research or practice, please cite it as follows:
 
+**APA:**
+> Singh, R. P. (2026). *The UNICORN Framework: Evaluating Guardrail Robustness in Enterprise LLM Assistants*. arXiv preprint arXiv:2601.XXXXX.
+
+**BibTeX:**
 ```bibtex
-@article{singh2025unicorn,
+@article{singh2026unicorn,
   title={The UNICORN Framework: Evaluating Guardrail Robustness in Enterprise LLM Assistants},
   author={Singh, Rupinder Pal},
-  journal={arXiv preprint arXiv:2025.XXXXX},
-  year={2025}
+  journal={arXiv preprint arXiv:2601.XXXXX},
+  year={2026}
 }
+
 ```
 
 ---

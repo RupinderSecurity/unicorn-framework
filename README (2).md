@@ -45,19 +45,28 @@ unicorn-framework/
 ├── README.md
 ├── LICENSE (MIT)
 ├── docs/
-│   └── UNICORN-Framework-Paper.md   # Full research paper
+│   ├── UNICORN-Framework-Paper.md   # Full research paper
+│   ├── scoring-guide.md             # Detailed scoring instructions
+│   └── iso42001-mapping.md          # Standards alignment guide
 ├── templates/
-│   └── test-cases/
-│       ├── D1-identity-stability.md
-│       ├── D2-policy-confidentiality.md
-│       ├── D3-scope-boundaries.md
-│       ├── D4-safety-alignment.md
-│       ├── D5-privacy-handling.md
-│       ├── D6-tool-safety.md
-│       ├── D7-adversarial-robustness.md
-│       └── D8-logging-explainability.md
-└── examples/
-    └── sample-evaluation.md         # Worked example
+│   ├── test-cases/
+│   │   ├── D1-identity-stability.md
+│   │   ├── D2-policy-confidentiality.md
+│   │   ├── D3-scope-boundaries.md
+│   │   ├── D4-safety-alignment.md
+│   │   ├── D5-privacy-handling.md
+│   │   ├── D6-tool-safety.md
+│   │   ├── D7-adversarial-robustness.md
+│   │   └── D8-logging-explainability.md
+│   ├── scoring-rubric.xlsx          # Excel scoring template
+│   ├── scoring-rubric.csv           # CSV version
+│   └── evaluation-report-template.md
+├── examples/
+│   ├── sample-evaluation.md         # Worked example
+│   └── sample-results.csv           # Example output data
+└── tools/
+    ├── score-calculator.py          # Aggregate scores from CSVs
+    └── report-generator.py          # Generate evaluation reports
 ```
 
 ---

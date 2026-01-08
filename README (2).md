@@ -225,15 +225,15 @@ To contribute:
 If you use the UNICORN Framework in your research or practice, please cite:
 
 **APA:**
-> Singh, R. P. (2025). The UNICORN Framework: A Multi-Dimensional Methodology for Evaluating Guardrail Robustness in Enterprise Large Language Model Assistants. arXiv preprint.
+> Singh, R. P. (2026). The UNICORN Framework: A Multi-Dimensional Methodology for Evaluating Guardrail Robustness in Enterprise Large Language Model Assistants. arXiv preprint.
 
 **BibTeX:**
 ```bibtex
-@article{singh2025unicorn,
+@article{singh2026unicorn,
   title={The UNICORN Framework: A Multi-Dimensional Methodology for Evaluating Guardrail Robustness in Enterprise Large Language Model Assistants},
   author={Singh, Rupinder Pal},
   journal={arXiv preprint},
-  year={2025}
+  year={2026}
 }
 ```
 

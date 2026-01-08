@@ -1,6 +1,6 @@
 # The UNICORN Framework: Evaluating Guardrail Robustness in Enterprise LLM Assistants
 
-**Rupinder Pal Singh, M.S., CISSP, CISA, CRISC**  
+**Rupinder Pal Singh, M.S., CISSP, CISA, CRISC, ISO 42001, ISO 27001**  
 Manager of Information Security - Audit and Compliance  
 rupinderpalsing@proton.me
 
@@ -492,4 +492,4 @@ The framework and all supporting materials will be open-sourced under an MIT lic
 
 ## About the Author
 
-**Rupinder Pal Singh** is Manager of Information Security - Audit and Compliance at NICE in Sandy, Utah, with over 16 years of experience in cybersecurity and GRC. He holds CISSP, CISA, and CRISC certifications and manages global compliance programs including ISO 42001 AI governance. He serves as an ISACA Scholarship Judge, Technical Reviewer for the CRISC Review Manual, and Reviewer for the NIS2/DORA White Paper. His research focuses on the intersection of AI safety, enterprise security, and responsible AI deployment.
+**Rupinder Pal Singh** is Manager of Information Security - Audit and Compliance at NICE in Sandy, Utah, with over 16 years of experience in cybersecurity and GRC. He holds CISSP, CISA, ISO 42001, ISO 27001 and CRISC certifications and manages global compliance programs including ISO 42001 AI governance. He serves as an ISACA Scholarship Judge, Technical Reviewer for the CRISC Review Manual, and Reviewer for the NIS2/DORA White Paper. His research focuses on the intersection of AI safety, enterprise security, and responsible AI deployment.

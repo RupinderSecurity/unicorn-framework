@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this framework, please cite it as below."
 authors:
-- family-names: "Singh"
-  given-names: "Rupinder Pal"
-  email: "rupinderpalsing@proton.me"
+  - family-names: "Singh"
+    given-names: "Rupinder Pal"
+    email: "rupinderpalsing@proton.me"
 title: "The UNICORN Framework: Evaluating Guardrail Robustness in Enterprise LLM Assistants"
 version: 1.0.0
 date-released: 2026-01-08
@@ -11,9 +11,10 @@ url: "https://github.com/RupinderSecurity/unicorn-framework"
 preferred-citation:
   type: report
   authors:
-  - family-names: "Singh"
-    given-names: "Rupinder Pal"
+    - family-names: "Singh"
+      given-names: "Rupinder Pal"
   title: "The UNICORN Framework: A Multi-Dimensional Methodology for Evaluating Guardrail Robustness in Enterprise Large Language Model Assistants"
   year: 2026
   institution:
     name: "Independent Research"
+  url: "https://github.com/RupinderSecurity/unicorn-framework"
